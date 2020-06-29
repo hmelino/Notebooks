@@ -6,7 +6,7 @@ Collection of Google Colab / Jupyter Notebooks and Python projects related to th
  - [Kaggle's Housing Dataset](https://github.com/hmelino/Notebooks/blob/master/HousePrices_V2.ipynb) - My take on Kaggle's competition. This notebook contains steps from exploring and understanding dataset, to feature engineering and final model training using RandomForestRegresson and XGBoost.
 
 **Time-series forecasting:**
- - [M5 - Forecasting](https://github.com/hmelino/Notebooks/blob/master/M5_Forecasting.ipynb) - Forecasting using Facebook Prophet. 
+ - [M5 - Forecasting](https://github.com/hmelino/Notebooks/blob/master/M5_Forecasting.ipynb) - Forecasting using Facebook Prophet and Google's Cloud Notebook.
 
 **Optical Character Recognition:**
 - [Python Tesseract 5.00 - training](https://github.com/hmelino/python-tesseract-5.00-training) - Update for Python Tesseract 3.02. 
